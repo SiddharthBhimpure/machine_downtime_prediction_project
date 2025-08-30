@@ -48,3 +48,9 @@ Place your downtime dataset as downtime_data.csv in the project root folder.
 
 ### 5. Run the app
 streamlit run app.py
+
+
+
+## 👤 Author
+**Siddharth Bhimpure**  
+- 🎓 B.Tech in AI & Data Science  
